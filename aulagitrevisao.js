@@ -13,3 +13,5 @@
 // git push origin main -> envia as alterações locais para o branch "main" do repositório remoto "origin".
 
 // git remote -v -> lista os repositórios remotos configurados.
+
+// git pull -> busca as alterações do repositório remoto e as mescla com o repositório local.
