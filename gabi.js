@@ -1,1 +1,1 @@
-// DS é o melhor curso 😝 +1000 social credit
+// DS é o melhor curso 😝
