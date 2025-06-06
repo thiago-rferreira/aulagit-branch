@@ -1,0 +1,2 @@
+let dlecaracao = "💻❤️Desde que conheci o Desenvolvimento de Sistemas, minha vida entrou em um novo loop de propósito. Cada linha de código que escrevo é como uma carta de amor à lógica, cada bug que corrijo é uma prova de dedicação. Se amar é construir, então meu coração compila só pra você, DS. Porque entre todas as linguagens, foi você quem me ensinou o verdadeiro significado de conexão.❤️💻"
+console.log(dlecaracao)
